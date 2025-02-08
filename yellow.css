@@ -1,0 +1,41 @@
+
+
+
+/* yellow color*/
+footer .social-links ul li a span,
+footer .footer-content .box .icon span,
+.btn-1:hover,
+.people-section .people-item-inner .social-link a i,
+.event-section .event-item-inner span,
+.story-section .story-item i,
+.story-section .story-text h3,
+.guide-section .social-links a i,
+.guide-section .guide i.fa-heart,
+.guide-section .guide h3,
+body.dark .header .nav ul li a.active,
+.header .nav ul li a.active,
+body.dark .header .nav ul li a:hover,
+.header .nav ul li a:hover{
+	color: #ff9801;
+}
+
+footer .social-links ul li a span,
+.btn-1,
+.people-section .people-item-inner .social-link a i,
+.event-section .event-item-inner:before,
+.guide-section .social-links a i,
+.guide-section .guide img{
+	border-color: #ff9801;
+}
+
+.setting .s-toggle-btn,
+footer .social-links ul li a span:hover,
+.btn-1,
+.rsvp-section,
+.people-section .people-item-inner .social-link a:hover i,
+body.dark .people-section .filter-btn.active,
+.people-section .filter-btn.active,
+.event-section,
+.guide-section .social-links a:hover i{
+	background-color: #ff9801;
+}
